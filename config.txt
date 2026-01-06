@@ -1,0 +1,6 @@
+seconds_between_each_request=10
+seconds_between_each_batch=10
+dates_to_search=2025-12-26,2025-12-27,2025-12-28,2025-12-29
+minimum_departure_time=08:00
+train_type_direct_only=true
+maximum_ticket_price=100

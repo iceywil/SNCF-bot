@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "node-telegram-bot-api": "^0.67.0",
+    "ts-node": "^10.9.2"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/sncf-api-call.js",
+    "dev": "npx ts-node sncf-api-call.ts"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.64.13",
+    "typescript": "^5.9.3"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "itineraryId": "badc9598-9981-4cef-832d-15c956492bc3",
+    "next": true,
+    "outward": true,
+    "trainExpected": true,
+    "metadataY": {
+        "decisionAction": "NEXT"
+    },
+    "decisionSource": "FORCE"
+}
